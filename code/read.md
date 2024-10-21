@@ -1,1 +1,1 @@
-hi
+This folder contains all the scripts used for Problem Set 2. To replicate the results, please run the files in numerical order. Each prediction model is in a separate script. To fully replicate the process, ensure that you input your personal username and API key from Kaggle.
